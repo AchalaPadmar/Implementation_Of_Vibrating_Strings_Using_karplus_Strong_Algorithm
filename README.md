@@ -73,5 +73,5 @@ Pressing the `c` key will play the C4 note and show the following visualizations
 ###  Acknowledgments
 
 - The Karplus-Strong algorithm was developed by Kevin Karplus and Alex Strong in 1983 for digital sound synthesis.
-- This project was inspired by the desire to simulate guitar string sounds using physical modeling techniques in Python.lgorithm
+- This project was inspired by the desire to simulate guitar string sounds using physical modeling techniques in Python.
 
